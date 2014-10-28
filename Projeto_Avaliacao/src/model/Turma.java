@@ -4,19 +4,12 @@
  * and open the template in the editor.
  */
 
-package projeto_avaliacao;
+package model;
 
 /**
  *
  * @author Patrick
  */
-public class Projeto_Avaliacao {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        
-    }
+public class Turma {
     
 }
