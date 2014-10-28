@@ -11,5 +11,4 @@ package model;
  * @author Patrick
  */
 public class Aluno {
-    
 }
